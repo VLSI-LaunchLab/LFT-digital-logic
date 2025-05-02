@@ -4,6 +4,8 @@ LaunchLab Fresher Training (LFT) module for Digital Logic Design, Verification a
 
 **PREREQ/ASSESSMENT** : Check your digital logic proficiency by taking [this test](docs/Digital-Circuits-Assesment.pdf)
 
+**COURSE CONTENT**:
+
 - **Logic Gates**: Understanding of basic (NOT, AND, OR), universal (NAND, NOR) and special logic gates (X-OR,X-NOR). 
 - **Truth Table & K-Map**: Draw the truth table and find out the logic circuit using K-Map (up to 5 variable). 
 - **Combinational Circuit**: Draw the following circuits: Adders, Subtractors, Multiplexers, De-multiplexers, Decoders, Encoders and Code converters.
